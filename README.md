@@ -11,28 +11,32 @@ The Quote of the App project is a simple mobile application developed using flut
 1.Mark quotes as favorites for quick access.
 2.Share quotes on various social media platforms.
 
-### Getting Started
+## Getting Started
 
-# Clone the entire repository
+### Clone the entire repository
+```bash
 git clone https://github.com/DevPhranav/CODSOFT.git
 
-# Navigate to the todo_list directory
+### Navigate to the todo_list directory
+```bash
 cd CODSOFT/flutter-quote-of-the-day-main
 
-# Install Flutter Dependencies: 
+### Install Flutter Dependencies:
+```bash
 flutter pub get
 
-# Run the Application: 
+### Run the Application:
+```bash
 flutter run
 
 
-## 2. Todolist
+# 2. Todolist
 
-### Overview
+## Overview
 
 The Todolist project is a simple task management application developed using flutter and firebase that helps users keep track of their daily tasks.
 
-### Features
+## Features
 
 1.Add, edit, and delete tasks.
 2.Mark tasks as completed.
@@ -40,16 +44,20 @@ The Todolist project is a simple task management application developed using flu
 
 ### Getting Started
 
-# Clone the entire repository
+### Clone the entire repository
+```bash
 git clone https://github.com/DevPhranav/CODSOFT.git
 
-# Navigate to the todo_list directory
+### Navigate to the todo_list directory
+```bash
 cd CODSOFT/todo_list
 
-# Install Flutter Dependencies: 
+### Install Flutter Dependencies:
+```bash
 flutter pub get
 
-# Run the Application: 
+### Run the Application:
+```bash
 flutter run
 
 
