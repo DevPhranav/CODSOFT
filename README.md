@@ -1,41 +1,63 @@
-# Quote of the App
+# Codsoft Projects
 
-Welcome to the "quote_of_the_app" Flutter project! This app is designed to display inspiring and motivational quotes to users. Whether you need a pick-me-up or a daily dose of motivation, this app has you covered.
+## 1. Quote of the App
 
-## Features
-- Display random quotes on the home screen
-- Ability to share your favorite quotes with friends
-- Save quotes to favorites for quick access
-- Explore a wide range of categories for quotes
+### Overview
 
-## Getting Started
-1. Clone the repository:
-git clone https://github.com/your-username/quote_of_the_app.git
-2. Navigate to the project directory:
-3. Install dependencies:
-4. Run the app:
+The Quote of the App project is a simple mobile application developed using flutter that displays inspiring quotes. Users can explore a collection of quotes, mark their favorites, and share them on social media.
+
+### Features
+
+1.Mark quotes as favorites for quick access.
+2.Share quotes on various social media platforms.
+
+### Getting Started
+
+# Clone the entire repository
+git clone https://github.com/DevPhranav/CODSOFT.git
+
+# Navigate to the todo_list directory
+cd CODSOFT/flutter-quote-of-the-day-main
+
+# Install Flutter Dependencies: 
+flutter pub get
+
+# Run the Application: 
+flutter run
 
 
-Feel free to explore the code and contribute to the project. We welcome any enhancements, bug fixes, or new features!
+## 2. Todolist
 
----
+### Overview
 
-# Todo List
+The Todolist project is a simple task management application developed using flutter and firebase that helps users keep track of their daily tasks.
 
-Welcome to the "todo_list" Flutter project! This app helps you keep track of your tasks and stay organized. Whether it's for work, school, or personal projects, managing your to-do list has never been easier.
+### Features
 
-## Features
-- Add, edit, and delete tasks
-- Categorize tasks with custom labels
-- Set due dates and reminders for tasks
-- Mark tasks as completed
-- View a summary of completed tasks
+1.Add, edit, and delete tasks.
+2.Mark tasks as completed.
+3.Filter tasks based on their status.
 
-## Getting Started
-1. Clone the repository:
+### Getting Started
 
-git clone https://github.com/your-username/todo_list.git
-2. Navigate to the project directory:
-3. Install dependencies:
-4. Run the app:
-Feel free to explore the code and contribute to the project. We appreciate any feedback, bug reports, or new features you might want to add!
+# Clone the entire repository
+git clone https://github.com/DevPhranav/CODSOFT.git
+
+# Navigate to the todo_list directory
+cd CODSOFT/todo_list
+
+# Install Flutter Dependencies: 
+flutter pub get
+
+# Run the Application: 
+flutter run
+
+
+## License
+
+These projects are open source software. You are free to use, modify, and distribute the code for your own projects. There is no specified license.
+
+## Contact
+
+For any inquiries or suggestions, feel free to contact me via email: ksphranav15@gmail.com
+
